@@ -1,2 +1,3 @@
 # hello-world
-My first repo
+README file for hello-worl repo. 
+This is only a test repo
